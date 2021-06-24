@@ -43,3 +43,15 @@
 
 * yarn add -D @pmmmwh/react-refresh-webpack-plugin react-refresh
 --> Fast refresh installer
+
+* yarn add typescript -D
+--> Instalação do typescript como dependencia de desenvolvimento
+
+* yarn tsc --init
+--> Inicializa o typescript no projeto
+
+* yarn add @babel/preset-typescript -D
+--> Adiciona o interpretador de typescript no babel
+
+* yarn add @types/react-dom -D
+*yarn add @types/react -D
