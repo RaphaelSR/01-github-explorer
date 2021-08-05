@@ -1,5 +1,4 @@
 # 01-github-explorer
-First react ignite project
 
-#Use "yarn install" to install the dependencies
-#Use "yarn dev" to run
+#Use <strong>yarn install</strong> to install the dependencies </br>
+#Use <strong>yarn dev</strong> to run
